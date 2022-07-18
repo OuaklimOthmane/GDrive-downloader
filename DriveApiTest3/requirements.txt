@@ -1,0 +1,5 @@
+ The Google Drive API v3 allows us to add the functionality to download files from Google Drive with in our applications.  The Google Drive API also supports service account authencation.  With service account authorization you can access the Google Drive API account without requesting user consent.
+
+// create a service account Oauth2 (credentials.json) & enable drive api : https://www.youtube.com/watch?v=asrCdWFrF0A
+
+// set the "appsettings.json" to "copy always" : https://www.youtube.com/watch?v=tQdNlju2UXo&ab_channel=CodeSwitch
